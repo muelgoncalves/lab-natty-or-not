@@ -8,7 +8,7 @@ Este e-book de 6 páginas possui 9 indicadores que eu considero de extrema impor
 - Ferramenta **Libre Office** para edição.
 
 ## 🧐 Processo de Criação
-Usei o Microsoft Copilot para explicar de forma fácil e resumida alguns dos indicadores que considero fundamentais para que um iniciante, saiba interpretar o que ela esta mostrando; E utilizei o Lobre Office para escrever e revisar as informações.
+Usei o Microsoft Copilot para explicar de forma fácil e resumida alguns dos indicadores que considero fundamentais para que um iniciante saiba interpretar o que ela esta mostrando; E utilizei o Lobre Office para escrever e revisar as informações.
 
 ## 🚀 Resultados
 Graças a inteligência artificial do Copilot, consegui produzir um conteúdo de forma rápida, mas que apresentasse informações simples e valiosas sobre o assunto.
